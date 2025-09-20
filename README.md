@@ -1,5 +1,5 @@
-#Random color generator 
--when user click on generate 10 different color generated with color code 
+# Random color generator 
+- when user click on generate 10 different color generated with color code 
 
 
 
